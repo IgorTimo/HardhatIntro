@@ -1,0 +1,9 @@
+ethereum/node_modules
+ethereum/.env
+ethereum/coverage
+ethereum/coverage.json
+ethereum/typechain
+
+#Hardhat files
+ethereum/cache
+ethereum/artifacts
